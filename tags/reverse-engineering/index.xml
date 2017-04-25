@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reverse Engineering on Giulio &#39;peperunas&#39; De Pasquale</title>
-    <link>https://blog.giugl.io/tags/reverse-engineering/</link>
+    <link>https://peperunas.github.io/tags/reverse-engineering/</link>
     <description>Recent content in Reverse Engineering on Giulio &#39;peperunas&#39; De Pasquale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Injectopi</title>
-      <link>https://blog.giugl.io/project/injectopi/</link>
+      <link>https://peperunas.github.io/project/injectopi/</link>
       <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.giugl.io/project/injectopi/</guid>
+      <guid>https://peperunas.github.io/project/injectopi/</guid>
       <description>&lt;p&gt;Stay tuned&amp;hellip;&lt;/p&gt;
 </description>
     </item>

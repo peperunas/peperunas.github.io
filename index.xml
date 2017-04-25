@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Giulio &#39;peperunas&#39; De Pasquale on Giulio &#39;peperunas&#39; De Pasquale</title>
-    <link>https://blog.giugl.io/</link>
+    <link>https://peperunas.github.io/</link>
     <description>Recent content in Giulio &#39;peperunas&#39; De Pasquale on Giulio &#39;peperunas&#39; De Pasquale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,29 +12,29 @@
     
     <item>
       <title>Injectopi</title>
-      <link>https://blog.giugl.io/project/injectopi/</link>
+      <link>https://peperunas.github.io/project/injectopi/</link>
       <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.giugl.io/project/injectopi/</guid>
+      <guid>https://peperunas.github.io/project/injectopi/</guid>
       <description>&lt;p&gt;Stay tuned&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ShieldFS: A Self-healing, Ransomware-aware Filesystem</title>
-      <link>https://blog.giugl.io/publication/shieldfs/</link>
+      <link>https://peperunas.github.io/publication/shieldfs/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.giugl.io/publication/shieldfs/</guid>
+      <guid>https://peperunas.github.io/publication/shieldfs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bash e Filtri (in Italian)</title>
-      <link>https://blog.giugl.io/talk/bashfiltri2016/</link>
+      <link>https://peperunas.github.io/talk/bashfiltri2016/</link>
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.giugl.io/talk/bashfiltri2016/</guid>
+      <guid>https://peperunas.github.io/talk/bashfiltri2016/</guid>
       <description>&lt;p&gt;I held a talk for the &lt;a href=&#34;https://poul.org&#34; target=&#34;_blank&#34;&gt;POuL&lt;/a&gt; association whose I proudly am member.
 Here I&amp;rsquo;ve shown to intermediate *nix users, how to move the first steps with &lt;code&gt;bash&lt;/code&gt; and its main components.&lt;/p&gt;
 
@@ -44,10 +44,10 @@ Here I&amp;rsquo;ve shown to intermediate *nix users, how to move the first step
     
     <item>
       <title>CSAW 2015 - Airport</title>
-      <link>https://blog.giugl.io/post/csaw15-airport/</link>
+      <link>https://peperunas.github.io/post/csaw15-airport/</link>
       <pubDate>Wed, 23 Sep 2015 16:56:59 +0200</pubDate>
       
-      <guid>https://blog.giugl.io/post/csaw15-airport/</guid>
+      <guid>https://peperunas.github.io/post/csaw15-airport/</guid>
       <description>&lt;p&gt;In this challenge we were provided with 5 images:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;├── 1.png
@@ -91,10 +91,10 @@ iH4t3A1rp0rt5%
     
     <item>
       <title>Plaid CTF 2015 - PNG Uncorrupt</title>
-      <link>https://blog.giugl.io/post/plaid15-png_uncorrupt/</link>
+      <link>https://peperunas.github.io/post/plaid15-png_uncorrupt/</link>
       <pubDate>Fri, 12 Jun 2015 16:57:09 +0200</pubDate>
       
-      <guid>https://blog.giugl.io/post/plaid15-png_uncorrupt/</guid>
+      <guid>https://peperunas.github.io/post/plaid15-png_uncorrupt/</guid>
       <description>&lt;p&gt;Me and my team, &lt;a href=&#34;https://www.polictf.it&#34; target=&#34;_blank&#34;&gt;Tower of Hanoi&lt;/a&gt;, have played the PlaidCTF 2015: while my teammates did reversing stuff, my friend john and I did this awesome forensic challenge.&lt;/p&gt;
 
 &lt;p&gt;This was the challenge description:&lt;/p&gt;
@@ -160,7 +160,7 @@ iH4t3A1rp0rt5%
 
 &lt;p&gt;Did we succeed?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blog.giugl.io/img/pngcorrupt.png&#34; alt=&#34;Final Solution&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://peperunas.github.io/img/pngcorrupt.png&#34; alt=&#34;Final Solution&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;PS: I know that some of you was wondering how wonderful our script was&amp;hellip;so&amp;hellip; have a good headache after it ;-)&lt;/p&gt;
 
@@ -272,10 +272,10 @@ for x in idat_chunks:
     
     <item>
       <title>VulnHub Tr0ll 2 VM write-up</title>
-      <link>https://blog.giugl.io/post/vm-troll2/</link>
+      <link>https://peperunas.github.io/post/vm-troll2/</link>
       <pubDate>Sat, 20 Dec 2014 16:56:53 +0200</pubDate>
       
-      <guid>https://blog.giugl.io/post/vm-troll2/</guid>
+      <guid>https://peperunas.github.io/post/vm-troll2/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;alert alert-warning&#34;&gt;
   &lt;p&gt;&lt;strong&gt;Due to my blog transfer I lost some articles bits. This, unfortunately, is one of them. I’ll re-write (complete) this article soon. I’m very sorry.&lt;/strong&gt;&lt;/p&gt;
 

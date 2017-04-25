@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Giulio &#39;peperunas&#39; De Pasquale</title>
-    <link>https://blog.giugl.io/publication/</link>
+    <link>https://peperunas.github.io/publication/</link>
     <description>Recent content in Publications on Giulio &#39;peperunas&#39; De Pasquale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>ShieldFS: A Self-healing, Ransomware-aware Filesystem</title>
-      <link>https://blog.giugl.io/publication/shieldfs/</link>
+      <link>https://peperunas.github.io/publication/shieldfs/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.giugl.io/publication/shieldfs/</guid>
+      <guid>https://peperunas.github.io/publication/shieldfs/</guid>
       <description></description>
     </item>
     
