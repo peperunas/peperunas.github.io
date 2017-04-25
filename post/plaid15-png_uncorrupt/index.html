@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.20.2" />
+  <meta name="author" content="Giulio De Pasquale">
+  <meta name="description" content="Computer Engineering Student">
+
+  
+  
+  
+    
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/highlight.min.css">
+    
+  
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/css/academicons.min.css">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather%7CRoboto+Mono">
+  <link rel="stylesheet" href="/css/hugo-academic.css">
+  
+
+  <link rel="alternate" href="https://blog.giugl.io/index.xml" type="application/rss+xml" title="Giulio &#39;peperunas&#39; De Pasquale">
+  <link rel="feed" href="https://blog.giugl.io/index.xml" type="application/rss+xml" title="Giulio &#39;peperunas&#39; De Pasquale">
+
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
+
+  <link rel="canonical" href="https://blog.giugl.io/post/plaid15-png_uncorrupt/">
+
+  
+
+  <title>Plaid CTF 2015 - PNG Uncorrupt | Giulio &#39;peperunas&#39; De Pasquale</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Giulio &#39;peperunas&#39; De Pasquale</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#about">
+            
+            <span>Home</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#posts">
+            
+            <span>Posts</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#projects">
+            
+            <span>Projects</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#publications">
+            
+            <span>Publications</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#talks">
+            
+            <span>Talks</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+  <div class="article-container">
+    <h1 itemprop="name">Plaid CTF 2015 - PNG Uncorrupt</h1>
+    
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    <time datetime="2015-06-12 16:57:09 &#43;0200 CEST" itemprop="datePublished">
+      Fri, 12 Jun, 2015
+    </time>
+  </span>
+
+  
+
+  
+  
+  
+  <span class="article-tags">
+    <i class="fa fa-tags"></i>
+    
+    <a href="/tags/forensics">forensics</a
+    >, 
+    
+    <a href="/tags/write-up">write-up</a
+    >
+    
+  </span>
+  
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fblog.giugl.io%2fpost%2fplaid15-png_uncorrupt%2f"
+         target="_blank">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Plaid%20CTF%202015%20-%20PNG%20Uncorrupt&amp;url=https%3a%2f%2fblog.giugl.io%2fpost%2fplaid15-png_uncorrupt%2f"
+         target="_blank">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fblog.giugl.io%2fpost%2fplaid15-png_uncorrupt%2f&amp;title=Plaid%20CTF%202015%20-%20PNG%20Uncorrupt"
+         target="_blank">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fblog.giugl.io%2fpost%2fplaid15-png_uncorrupt%2f&amp;title=Plaid%20CTF%202015%20-%20PNG%20Uncorrupt"
+         target="_blank">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Plaid%20CTF%202015%20-%20PNG%20Uncorrupt&amp;body=https%3a%2f%2fblog.giugl.io%2fpost%2fplaid15-png_uncorrupt%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    <div class="article-style" itemprop="articleBody">
+      <p>Me and my team, <a href="https://www.polictf.it" target="_blank">Tower of Hanoi</a>, have played the PlaidCTF 2015: while my teammates did reversing stuff, my friend john and I did this awesome forensic challenge.</p>
+
+<p>This was the challenge description:</p>
+
+<blockquote>
+<p>We received this PNG file, but we&rsquo;re a bit concerned the transmission may have not quite been perfect.</p>
+</blockquote>
+
+<p>It was easy to understand we had to repair a PNG file, but first, we checked what we had in our hands. So, we ran <code>file</code> on the challenge file:</p>
+
+<pre><code>corrupt_735acee15fa4f3be8ecd0c6bcf294fd4.png: data
+</code></pre>
+
+<p>The file was, in fact, corrupted since it wasn&rsquo;t recognized as a PNG image. The next step was to recreate the correct PNG header in our file, which should have been
+<code>0x89 0x50 0x4E 0x47 0xD 0xA 0x1A 0xA</code> instead of <code>0x89 0x50 0x4E 0x47 0x0A 0x1A 0x0A</code>, the actual header of our challenge&rsquo;s file.</p>
+
+<p>With the help of a hex editor we added the missing <code>0x0D</code> byte, renamed the file and&hellip;</p>
+
+<pre><code>solution.png: PNG image data, 960 x 600, 8-bit/color RGB, non-interlaced
+</code></pre>
+
+<p>Bad news ahead: by opening the image we were greeted by a fantastic <em>960x600</em> black image. Not bad. Some of the PNG <em>chunks</em> must have been corrupted as well then.</p>
+
+<p>Before going further with the challenge details, I&rsquo;d like to <em>quickly</em> summarize how a PNG file actually is.</p>
+
+<p>A PNG image has a lot of blocks, called <em>chunks</em>, which have the same structure:</p>
+
+<pre><code>|&lt;- 4 bytes -&gt;| |&lt;- 4 bytes -&gt;| |&lt;- variable -&gt;| |&lt;- 4 bytes  -&gt;|
+|&lt;- LENGTH  -&gt;| |&lt;-   NAME  -&gt;| |&lt;-   DATA   -&gt;| |&lt;- CHECKSUM -&gt;|
+</code></pre>
+
+<p>The most important one, which actually represents the image, is called <strong>IDAT</strong>.</p>
+
+<p>Now: we made a strong assumption.</p>
+
+<p><strong>Every chunks&rsquo; checksum and length section weren&rsquo;t altered at all</strong> (in this way we could understand what was the original content of the data block in each chunk)</p>
+
+<p>With the aforementioned assumption in our mind, we checked if any chunk had an unexpected checksum: <code>pngcheck</code> helped us doing this.</p>
+
+<p>There were several corrupted <strong>IDAT</strong> chunks so we wrote a script to bruteforce the missing bytes of each chunk.</p>
+
+<p>What we thought was: the <strong>LENGTH</strong> section indicates how many bytes <em>should have</em> been in the chunk in the first place so we compared that value with the <em>actual</em> length of the corrupted image <strong>DATA</strong> section.</p>
+
+<p>We wrote the script and&hellip; it took a lifetime. No results. Much joy.</p>
+
+<p>When our hope was gone and our PCs were slowly turning in frying pans, <a href="https://github.com/esseks" target="_blank"><strong>esseks</strong></a> another awesome teammate, came to the rescue.</p>
+
+<blockquote>
+<p>Guys, text conversion.</p>
+</blockquote>
+
+<p>Which meant: <em>why would you bruteforce everything?</em></p>
+
+<p>When an image is downloaded as <em>text</em> through FTP (ASCII Mode), each <code>0x0D 0x0A</code> bytes tuple (<code>\r\n</code>) is truncated to <code>0x0A</code>.</p>
+
+<p>Long story short, here&rsquo;s what we did next:</p>
+
+<ol>
+<li>Edited the script making it output the offset in the file where the <code>0x0D</code> byte should have been appended</li>
+<li>Waited for the script to do its magic</li>
+<li>Edited by hand the PNG image <em>(sad but true)</em></li>
+</ol>
+
+<p>Did we succeed?</p>
+
+<p><img src="/img/pngcorrupt.png" alt="Final Solution" /></p>
+
+<p>PS: I know that some of you was wondering how wonderful our script was&hellip;so&hellip; have a good headache after it ;-)</p>
+
+<pre><code class="language-python">import mmap
+import struct
+from zlib import crc32
+import re
+import sys
+try:
+    def strtobytes(x): return bytes(x)
+    def bytestostr(x): return str(x)
+except (NameError, TypeError):
+    strtobytes = str
+    bytestostr = str
+
+class IDATChunk:
+    counter = &quot;&quot;
+    length = &quot;&quot;
+    data = &quot;&quot;
+    checksum = &quot;&quot;
+    def __init__(self, counter, length, data, checksum):
+        self.counter = counter
+        self.length = int(length.encode(&quot;hex&quot;), 16)
+        self.data = data
+        self.checksum = checksum
+
+def verifyChecksum(data, checksum):
+    verify = crc32(strtobytes(&quot;IDAT&quot;))
+    verify = crc32(data, verify)
+    verify &amp;= 2**32 - 1
+    verify = struct.pack('!I', verify)
+    if verify != checksum:
+        return False
+    return True
+
+
+def print_bar(perc=.0):
+    SIZE = 20
+    return &quot;[%s%s] %f\r&quot; % (&quot;#&quot; * int(20*perc), &quot; &quot; * (20 - int(20*perc)), perc)
+
+
+def addNewByte(data, seek = &quot;\n&quot;, debug=False, byte_to_insert = &quot;\r&quot;):
+    if debug:
+        print &quot;DEBUG!!!&quot;, type(data), data
+    indexes = [m.start() for m in re.finditer(seek, data)]
+    for i in indexes:
+        if byte_to_insert is None:
+            for byte_to_insert in range(255):
+                new_data = data[:i]+ chr(byte_to_insert) + data[i:]
+                yield str(new_data), i, byte_to_insert, len(indexes)
+        else:
+            new_data = data[:i]+ byte_to_insert + data[i:]
+            yield str(new_data), i, byte_to_insert, len(indexes)
+
+
+
+def getCorrectData(idatobj):
+    if idatobj.length - len(idatobj.data) == 1 :
+        for new_data, i, byte_to_insert, num in addNewByte(idatobj.data):
+            if verifyChecksum(new_data, idatobj.checksum):
+                print &quot;Offset byte: &quot;, str(i), repr(byte_to_insert)
+                return new_data
+
+    elif idatobj.length - len(idatobj.data) == 2 :
+        counter = 0
+        for data_plus_1, i1, byte_1, num in addNewByte(idatobj.data):
+            for data_plus_2, i2, byte_2, num2 in addNewByte(data_plus_1):
+                sys.stderr.write(print_bar(float(counter)/255/255/num))
+                counter += 1
+                if verifyChecksum(data_plus_2, idatobj.checksum):
+                    print &quot;Offset byte 1: &quot;, str(i1), &quot; Byte: &quot;, repr(byte_1)
+                    print &quot;Offset byte 2: &quot;, str(i2), &quot; Byte: &quot;, repr(byte_2)
+                    return data_plus_2
+    elif idatobj.length - len(idatobj.data) == 3 :
+        counter = 0
+        for data_plus_1, i1, byte_1, num in addNewByte(idatobj.data):
+            for data_plus_2, i2, byte_2, num in addNewByte(data_plus_1):
+                for data_plus_3, i3, byte_3, num in addNewByte(data_plus_2):
+                    sys.stderr.write(print_bar(float(counter)/255/255/255))
+                    counter += 1
+                    if verifyChecksum(data_plus_3, idatobj.checksum):
+                        print &quot;Offset byte 1: &quot;, str(i1), &quot; Byte: &quot;, repr(byte_1)
+                        print &quot;Offset byte 2: &quot;, str(i2), &quot; Byte: &quot;, repr(byte_2)
+                        print &quot;Offset byte 3: &quot;, str(i3), &quot; Byte: &quot;, repr(byte_3)
+                        return data_plus_3
+def getlen(mm, idatindex):
+    return int(&quot;0x&quot; + mm[idatindex-4:idatindex].encode(&quot;hex&quot;), 0)
+
+idat_chunks = []
+
+f = open('/home/giulio/CTF/Plaid5/forensics/original.png', &quot;r+b&quot;)
+mm = mmap.mmap(f.fileno(), 0)
+#
+# L | IDAT | DATA | CHECKSUM ---&gt; {L} {DATA, CHECKSUM, L} {DATA, CHECKSUM, L} ... {DATA, CHECKSUM}
+#
+shitgotreal = mm.read(mm.size()).split(&quot;Adobe Fireworks CS6&quot;)[1][4:].split(&quot;IEND&quot;)[0].split(&quot;IDAT&quot;)
+
+for cont, idat in [ (x,shitgotreal[x])  for x in range(1, len(shitgotreal))]:
+    length = shitgotreal[cont-1][-4:]
+    data = idat[:-8]
+    checksum = idat[-8:-4]
+    idat_chunks.append(IDATChunk(cont,length, data, checksum))
+for x in idat_chunks:
+    print &quot;IDAT &quot; + str(x.counter) + &quot;: ...&quot;
+    getCorrectData(x)
+    print &quot;|------|&quot;
+</code></pre>
+    </div>
+  </div>
+
+</article>
+
+<div class="container">
+  <nav>
+  <ul class="pager">
+    
+    <li class="previous"><a href="https://blog.giugl.io/post/vm-troll2/"><span
+      aria-hidden="true">&larr;</span> VulnHub Tr0ll 2 VM write-up</a></li>
+    
+
+    
+    <li class="next"><a href="https://blog.giugl.io/post/csaw15-airport/">CSAW 2015 - Airport <span
+      aria-hidden="true">&rarr;</span></a></li>
+    
+  </ul>
+</nav>
+
+</div>
+
+<div class="article-container">
+  
+
+</div>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2017 Giulio De Pasquale &middot; 
+
+      Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic
+      theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+    <script src="/js/jquery-1.12.3.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/isotope.pkgd.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.1/imagesloaded.pkgd.min.js"></script>
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-97932357-1', 'auto');
+        ga('send', 'pageview');
+
+         
+        var links = document.querySelectorAll('a');
+        Array.prototype.map.call(links, function(item) {
+            if (item.host != document.location.host) {
+                item.addEventListener('click', function() {
+                    var action = item.getAttribute('data-action') || 'follow';
+                    ga('send', 'event', 'outbound', action, item.href);
+                });
+            }
+        });
+    </script>
+    
+
+    
+    
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/languages/python.min.js"></script>
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/languages/C.min.js"></script>
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    <script async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
+    
+
+  </body>
+</html>
+

