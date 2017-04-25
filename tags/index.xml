@@ -23,7 +23,7 @@
     <item>
       <title>Exploitation</title>
       <link>https://blog.giugl.io/tags/exploitation/</link>
-      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://blog.giugl.io/tags/exploitation/</guid>
       <description></description>
@@ -35,6 +35,15 @@
       <pubDate>Wed, 23 Sep 2015 16:56:59 +0200</pubDate>
       
       <guid>https://blog.giugl.io/tags/forensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse Engineering</title>
+      <link>https://blog.giugl.io/tags/reverse-engineering/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.giugl.io/tags/reverse-engineering/</guid>
       <description></description>
     </item>
     
