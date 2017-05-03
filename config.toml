@@ -23,7 +23,7 @@ defaultContentLanguageInSubdir = false
   role = "Computer Engineering Student"
   organization = "Politecnico di Milano"
   organization_url = ""
-  avatar = "avatar.jpg"
+  avatar = "/avatar.jpg"
   email = "me <at> giugl (dot) io"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
