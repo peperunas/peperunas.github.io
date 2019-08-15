@@ -1,69 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Giulio &#39;peperunas&#39; De Pasquale</title>
+    <title>Tags on Giulio De Pasquale</title>
     <link>https://peperunas.github.io/tags/</link>
-    <description>Recent content in Tags on Giulio &#39;peperunas&#39; De Pasquale</description>
+    <description>Recent content in Tags on Giulio De Pasquale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Giulio De Pasquale</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://peperunas.github.io/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://peperunas.github.io/tags/academic/</guid>
-      <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="https://peperunas.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Exploitation</title>
-      <link>https://peperunas.github.io/tags/exploitation/</link>
-      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://peperunas.github.io/tags/exploitation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Forensics</title>
-      <link>https://peperunas.github.io/tags/forensics/</link>
-      <pubDate>Wed, 23 Sep 2015 16:56:59 +0200</pubDate>
-      
-      <guid>https://peperunas.github.io/tags/forensics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reverse Engineering</title>
-      <link>https://peperunas.github.io/tags/reverse-engineering/</link>
-      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://peperunas.github.io/tags/reverse-engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vulnbox</title>
-      <link>https://peperunas.github.io/tags/vulnbox/</link>
-      <pubDate>Sat, 20 Dec 2014 16:56:53 +0200</pubDate>
-      
-      <guid>https://peperunas.github.io/tags/vulnbox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Write Up</title>
-      <link>https://peperunas.github.io/tags/write-up/</link>
-      <pubDate>Wed, 23 Sep 2015 16:56:59 +0200</pubDate>
-      
-      <guid>https://peperunas.github.io/tags/write-up/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

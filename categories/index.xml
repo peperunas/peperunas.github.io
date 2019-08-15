@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Giulio &#39;peperunas&#39; De Pasquale</title>
+    <title>Categories on Giulio De Pasquale</title>
     <link>https://peperunas.github.io/categories/</link>
-    <description>Recent content in Categories on Giulio &#39;peperunas&#39; De Pasquale</description>
+    <description>Recent content in Categories on Giulio De Pasquale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Giulio De Pasquale</copyright>
-    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://peperunas.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
