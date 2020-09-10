@@ -12,7 +12,7 @@ body {
   font-weight: var(--body-font-weight);
   color: #333;
   line-height: 1.4;
-  font-size: 19px;
+  font-size: 24px;
 }
 
 a,
@@ -278,15 +278,16 @@ ul {
   margin: 0;
   padding: 0;
   border: none;
+
 }
 
 .header .site-affilation nav ul svg {
-  max-height: 15px;
+  /* max-height: 15px; */
 }
 
 .email {
   /* color: #a00; */
-  font-size: 16px;
+  font-size: 100rem;
   font-family: "Ubuntu Mono";
   font-weight: bolder;
 }
