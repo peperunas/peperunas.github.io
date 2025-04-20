@@ -1,0 +1,20 @@
+name: Gatsby Deploy
+
+on:
+  push:
+    branches: master
+
+env:
+  GH_TOKEN: ${{ secrets.GATSBY_GITHUB_TOKEN }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: |
+          npm install
+      - name: Deploy
+        run: npm run deploy:ci
