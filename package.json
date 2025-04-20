@@ -14,9 +14,9 @@
   },
   "dependencies": {
     "@peperunas/gatsby-theme-intro": "peperunas/gatsby-theme-intro",
-    "gatsby": "^3.0.0",
+    "gatsby": "^3.15.0",
     "gh-pages": "^6.3.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }
