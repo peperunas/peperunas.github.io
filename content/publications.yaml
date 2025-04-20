@@ -1,0 +1,89 @@
+- title: "ChainReactor: Automated Privilege Escalation Chain Discovery via AI Planning"
+  authors: "Giulio De Pasquale, Ilya Grishchenko, Riccardo Iesari, Gabriel Pizarro, Lorenzo Cavallaro, Christopher Kruegel, Giovanni Vigna"
+  journal: "33rd USENIX Security Symposium (USENIX Security 24)"
+  year: 2024
+  abstract: "ChainReactor is a research project that leverages AI planning to discover exploitation chains for privilege escalation on Unix systems. The project models the problem as a sequence of actions to achieve privilege escalation from initial access to a target system. Awarded the Distinguished Artifact Award."
+  pdfUrl: "papers/usenix24-chainreactor.pdf"
+  citation: |
+    @inproceedings {chainreactor_depasquale,
+      author = {Giulio De Pasquale and Ilya Grishchenko and Riccardo Iesari and Gabriel Pizarro and Lorenzo Cavallaro and Christopher Kruegel and Giovanni Vigna},
+      title = {{ChainReactor}: Automated Privilege Escalation Chain Discovery via {AI} Planning},
+      booktitle = {33rd USENIX Security Symposium (USENIX Security 24)},
+      year = {2024},
+      isbn = {978-1-939133-44-1},
+      address = {Philadelphia, PA},
+      pages = {5913--5929},
+      url = {https://www.usenix.org/conference/usenixsecurity24/presentation/de-pasquale},
+      publisher = {USENIX Association},
+      month = aug
+    }
+
+- title: "ROPfuscator: Robust Obfuscation with ROP"
+  authors: "Giulio De Pasquale, Fukutomo Nakanishi, Daniele Ferla, Lorenzo Cavallaro"
+  journal: "IEEE Security and Privacy Workshops (SPW)"
+  year: 2023
+  abstract: "Based on Return‑Oriented Programming (ROP), ROPFuscator is a compiler‑driven software obfuscation pass, developed to protect intellectual property in software from sophisticated man‑at‑the‑end (MATE) attacks and reverse engineering attempts."
+  pdfUrl: "papers/woot23-ropfuscator.pdf"
+  citation: |
+    @INPROCEEDINGS{ropfuscator_depasquale,
+      author={De Pasquale, Giulio and Nakanishi, Fukutomo and Ferla, Daniele and Cavallaro, Lorenzo},
+      booktitle={2023 IEEE Security and Privacy Workshops (SPW)}, 
+      title={ROPfuscator: Robust Obfuscation with ROP}, 
+      year={2023},
+      volume={},
+      number={},
+      pages={1-10},
+      abstract={Software obfuscation is crucial in protecting intellectual property in software from reverse engineering attempts. While some obfuscation techniques originate from the obfuscation-reverse engineering arms race, others stem from different research areas, such as binary software exploitation. Return-oriented programming (ROP) became one of the most effective exploitation techniques for memory error vulnerabilities. ROP interferes with our natural perception of a process control flow, inspiring us to repurpose ROP as a robust and effective form of software obfuscation. Although previous work already explores ROP's effectiveness as an obfuscation technique, evolving reverse engineering research raises the need for principled reasoning to understand the strengths and limitations of ROP-based mechanisms against man-at-the-end (MATE) attacks. To this end, we present ROPFuscator, a compiler-driven obfuscation pass based on ROP for any programming language supported by LLVM. We incorporate opaque predicates and constants and a novel instruction hiding technique to withstand sophisticated MATE attacks. More importantly, we introduce a realistic and unified threat model to thoroughly evaluate ROPFuscator and provide principled reasoning on ROP-based obfuscation techniques that answer to code coverage, incurred overhead, correctness, robustness, and practicality challenges. The project's source code is published online to aid further research.},
+      keywords={Threat modeling;Computer languages;Program processors;Weapons;Source coding;Reverse engineering;Software;software-security;obfuscation},
+      doi={10.1109/SPW59333.2023.00026},
+      ISSN={2770-8411},
+      month={May},
+    }
+
+
+- title: "DIANE: Identifying Fuzzing Triggers in Apps to Generate Under‑constrained Inputs for IoT Devices"
+  authors: "Nilo Redini, Andrea Continella, Dipanjan Das, Giulio De Pasquale, Noah Spahn, Aravind Machiry, Antonio Bianchi, Christopher Kruegel, Giovanni Vigna"
+  journal: "IEEE Symposium on Security and Privacy (SP)"
+  year: 2021
+  abstract: "DIANE is a tool that combines static and dynamic analysis to find fuzzing triggers and uses them to fuzz IoT devices automatically"
+  pdfUrl: "papers/sp21-diane.pdf"
+  citation: |
+    @INPROCEEDINGS{diane_redini,
+      author={Redini, Nilo and Continella, Andrea and Das, Dipanjan and De Pasquale, Giulio and Spahn, Noah and Machiry, Aravind and Bianchi, Antonio and Kruegel, Christopher and Vigna, Giovanni},
+      booktitle={2021 IEEE Symposium on Security and Privacy (SP)}, 
+      title={Diane: Identifying Fuzzing Triggers in Apps to Generate Under-constrained Inputs for IoT Devices}, 
+      year={2021},
+      volume={},
+      number={},
+      pages={484-500},
+      abstract={Internet of Things (IoT) devices have rooted themselves in the everyday life of billions of people. Thus, researchers have applied automated bug finding techniques to improve their overall security. However, due to the difficulties in extracting and emulating custom firmware, black-box fuzzing is often the only viable analysis option. Unfortunately, this solution mostly produces invalid inputs, which are quickly discarded by the targeted IoT device and do not penetrate its code. Another proposed approach is to leverage the companion app (i.e., the mobile app typically used to control an IoT device) to generate well-structured fuzzing inputs. Unfortunately, the existing solutions produce fuzzing inputs that are constrained by app-side validation code, thus significantly limiting the range of discovered vulnerabilities.In this paper, we propose a novel approach that overcomes these limitations. Our key observation is that there exist functions inside the companion app that can be used to generate optimal (i.e., valid yet under-constrained) fuzzing inputs. Such functions, which we call fuzzing triggers, are executed before any data-transforming functions (e.g., network serialization), but after the input validation code. Consequently, they generate inputs that are not constrained by app-side sanitization code, and, at the same time, are not discarded by the analyzed IoT device due to their invalid format. We design and develop Diane, a tool that combines static and dynamic analysis to find fuzzing triggers in Android companion apps, and then uses them to fuzz IoT devices automatically. We use Diane to analyze 11 popular IoT devices, and identify 11 bugs, 9 of which are zero days. Our results also show that without using fuzzing triggers, it is not possible to generate bug-triggering inputs for many devices.},
+      keywords={Privacy;Limiting;Computer bugs;Fuzzing;Tools;Mobile applications;Security;IoT;fuzzing;static-analysis;dynamic-analysis;firmware-analysis},
+      doi={10.1109/SP40001.2021.00066},
+      ISSN={2375-1207},
+      month={May},
+    }
+  
+- title: "ShieldFS: a self-healing, ransomware-aware filesystem"
+  authors: "Andrea Continella, Alessandro Guagnelli, Giovanni Zingaro, Giulio De Pasquale, Alessandro Barenghi, Stefano Zanero, Federico Maggi"
+  journal: "Proceedings of the 32nd Annual Conference on Computer Security Applications (ACSAC)"
+  year: 2016
+  abstract: "ShieldFS proposes a solution to fight ransomware attacks. It automatically creates detection models that distinguish ransomware from benign processes at runtime on the base of the filesystem activity. ShieldFS adapts these models to the filesystem usage habits observed on the protected system."
+  pdfUrl: "papers/acsac16-shieldfs.pdf"
+  citation: |
+    @inproceedings{shieldfs_continella,
+      author = {Continella, Andrea and Guagnelli, Alessandro and Zingaro, Giovanni and De Pasquale, Giulio and Barenghi, Alessandro and Zanero, Stefano and Maggi, Federico},
+      title = {ShieldFS: a self-healing, ransomware-aware filesystem},
+      year = {2016},
+      isbn = {9781450347716},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      url = {https://doi.org/10.1145/2991079.2991110},
+      doi = {10.1145/2991079.2991110},
+      abstract = {Preventive and reactive security measures can only partially mitigate the damage caused by modern ransomware attacks. Indeed, the remarkable amount of illicit profit and the cyber-criminals' increasing interest in ransomware schemes suggest that a fair number of users are actually paying the ransoms.Unfortunately, pure-detection approaches (e.g., based on analysis sandboxes or pipelines) are not sufficient nowadays, because often we do not have the luxury of being able to isolate a sample to analyze, and when this happens it is already too late for several users! We believe that a forward-looking solution is to equip modern operating systems with practical self-healing capabilities against this serious threat. Towards such a vision, we propose ShieldFS, an add-on driver that makes the Windows native filesystem immune to ransomware attacks. For each running process, ShieldFS dynamically toggles a protection layer that acts as a copy-on-write mechanism, according to the outcome of its detection component. Internally, ShieldFS monitors the low-level filesystem activity to update a set of adaptive models that profile the system activity over time. Whenever one or more processes violate these models, their operations are deemed malicious and the side effects on the filesystem are transparently rolled back.We designed ShieldFS after an analysis of billions of low-level, I/O filesystem requests generated by thousands of benign applications, which we collected from clean machines in use by real users for about one month. This is the first measurement on the filesystem activity of a large set of benign applications in real working conditions.We evaluated ShieldFS in real-world working conditions on real, personal machines, against samples from state of the art ransomware families. ShieldFS was able to detect the malicious activity at runtime and transparently recover all the original files. Although the models can be tuned to fit various filesystem usage profiles, our results show that our initial tuning yields high accuracy even on unseen samples and variants.},
+      booktitle = {Proceedings of the 32nd Annual Conference on Computer Security Applications},
+      pages = {336–347},
+      numpages = {12},
+      location = {Los Angeles, California, USA},
+      series = {ACSAC '16}
+    }
+

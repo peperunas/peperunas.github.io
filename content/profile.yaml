@@ -1,0 +1,20 @@
+- profile:
+  initials: GDP
+  name: Giulio De Pasquale
+  profession: Security Researcher
+  image: images/profile.jpg
+  location: Cambridge, UK
+  relocation: false
+  company: Apple
+  for_hire: false
+  about: |
+    I have a PhD in Computer Security and currently work as a Senior Security Researcher at Roku, after spending some time at Apple and making the jump from academia to industry. I still keep a foot in the academic world, having served on various conference committees and staying involved with research whenever I can.
+
+    My main interests include reverse engineering, automated program analysis, obfuscation techniques, and automated exploit generation research - anything low-level works! I’m also big on reproducibility — both in research and in software — and am a fan of Nix and declarative, reproducible environments. I enjoy fiddling around with open-source software and am a strong advocate of self-hosted solutions.
+
+    I play(ed) Capture the Flag (CTF) competitions whenever I can and have had the pleasure to be part of mHACKeroni, Tower of Hanoi, and Shellphish. As part of mHACKeroni, we were able to rank 5th at DEFCON CTF 27 in 2019! I also co-founded Phish ‘n’ Chips, King’s College London’s CTF team.
+
+    Music plays an important role in my life: I am a keen fan of Subsonica, I play the drums (since ~2009), and I have recently started learning how to play the bass, guitar, and keyboards.
+
+    Most importantly, I _love_ Doom. When I'm not playing it for the n-th time, it’s possible to find me online playing Rocket League, competitive FPS games (mainly Counter Strike), and, when nostalgia hits hard, even World of Warcraft.
+  github_username: peperunas

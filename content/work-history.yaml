@@ -1,0 +1,41 @@
+- company: Roku
+  position: Senior Security Researcher
+  period: June 2025 - PRESENT
+  url: https://roku.com
+  logoImage: images/roku.svg
+
+- company: Apple
+  position: Security Researcher
+  period: October 2023 - June 2025
+  url: https://apple.com
+  logoImage: images/apple.svg
+
+- company: University of California, Santa Barbara
+  position: Visiting Graduate Researcher
+  period: January 2018 - July 2018
+  url: https://seclab.cs.ucsb.edu/
+  logoImage: images/ucsb.svg
+
+- company: Apple
+  position: Research Intern
+  period: May 2022 - June 2022
+  url: https://apple.com
+  logoImage: images/apple.svg
+
+- company: Tweag I/O
+  position: Research Intern
+  period: June 2021 - September 2021
+  url: https://github.com/tweag/nickel
+  logoImage: images/tweag.svg
+
+- company: Microsoft Research
+  position: Research Intern ‑ NExT Special Projects
+  period: June 2019 - September 2019
+  url: https://aka.ms/freta
+  logoImage: images/microsoft.svg
+
+- company: University of California, Santa Barbara
+  position: Visiting Graduate Researcher
+  period: January 2018 - July 2018
+  url: https://seclab.cs.ucsb.edu/
+  logoImage: images/ucsb.svg
