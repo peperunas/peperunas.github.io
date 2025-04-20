@@ -13,7 +13,7 @@
     "deploy:ci": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/peperunas/peperunas.github.io.git"
   },
   "dependencies": {
-    "@peperunas/gatsby-theme-intro": "*",
+    "@peperunas/gatsby-theme-intro": "peperunas/gatsby-theme-intro",
     "gatsby": "^4.25.9",
     "gh-pages": "^6.3.0",
     "react": "^18.3.1",
