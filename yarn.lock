@@ -1520,7 +1520,7 @@
 
 "@peperunas/gatsby-theme-intro@peperunas/gatsby-theme-intro":
   version "2.0.2"
-  resolved "https://codeload.github.com/peperunas/gatsby-theme-intro/tar.gz/b1c7f302877148bc9f07686def4de9c9cdadd23c"
+  resolved "https://codeload.github.com/peperunas/gatsby-theme-intro/tar.gz/1b7bf6fce0060f6782376966609b1a0c044d279a"
   dependencies:
     "@octokit/rest" "^19.0.13"
     autoprefixer "^10.2.5"
